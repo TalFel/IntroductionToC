@@ -1,0 +1,4 @@
+
+please enter 3 strings: 
+the string: abcdopLMNOPGzopPLOMajhijkd
+the shortened string is: a-dopL-PGzopPLOMajh-kd

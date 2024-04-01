@@ -1,0 +1,4 @@
+
+please enter a string: 
+the string: HoudjhABCDEFGdkdjftaapolkhellohihowareYouHIJKLMNOPqrsplkakmvmmakdjsitqwertyuais
+the shortened string is: HoudjhA-GdkdjftaapolkhellohihowareYouH-Pq-splkakmvmmakdjsitqwertyuais

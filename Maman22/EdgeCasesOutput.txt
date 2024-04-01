@@ -1,0 +1,39 @@
+Invalid command name.
+The set is empty
+Invalid command name.
+The set is empty
+Unidetified argument for this function.
+The set is empty
+Illigal comma between command and args.
+The set is empty
+Missing comma.
+The set is empty
+command is not terminated properly.
+The set is empty
+Extraneous text after -1.
+The set is empty
+Extraneous text after -1.
+The set is empty
+Extraneous text after -1.
+The set is empty
+Unidentified character.
+The set is empty
+Multiple consecutive commas.
+The set is empty
+Invalid command name.
+The set is empty
+Illigal comma between command and args.
+The set is empty
+Missing comma.
+The set is empty
+Multiple consecutive commas.
+The set is empty
+Too little arguments for this function.
+The set is empty
+Unidetified arguments for this function.
+The set is empty
+Too many arguments for this function.
+The set is empty
+Unidentified character.
+The set is empty
+Program abruptly stopped.

@@ -1,0 +1,4 @@
+
+please enter 3 strings: 
+the string: ABoplXYZABlZABCmadyza
+the shortened string is: ABoplX-BlZ-Cmady-a

@@ -1,0 +1,14 @@
+
+please insert the length of bytes to compare(press enter to continue): 
+please insert the first index: 
+please insert the second index: 
+please insert the string: 
+------------------
+the relevant string(to the maximum index we will check): a
+sd dd7a
+sd d
+the first index: 0, the second index: 8
+the number of bytes to compare: 6
+------------------
+
+the bytes are identical!

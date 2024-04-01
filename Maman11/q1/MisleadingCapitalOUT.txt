@@ -1,0 +1,4 @@
+
+please enter 3 strings: 
+the string: ABcdEfglmsdfYZaBCabCDe
+the shortened string is: ABcdEfglmsdfYZaBCabCDe

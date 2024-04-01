@@ -1,0 +1,38 @@
+read-set SETA, 3, 5, -1
+print_set SETA
+read_Set SETA, 3, 5, -1
+print_set SETA
+read_set SETa, 3, 5, -1
+print_set SETA
+read_set ,SETA, 3, 5, -1
+print_set SETA
+read_set SETA, 3, 5 -1
+print_set SETA
+read_set SETA, 3, 5, 1
+print_set SETA
+read_set SETA, 3, 5, -1, 5, -1
+print_set SETA
+read_set SETA, 3, 5, -1, 5
+print_set SETA
+read_set SETA, 3, 5, -1 '
+print_set SETA
+read_set SETA, 3, 5,' -1
+print_set SETA
+read_set SETA, 3, 5, , -1
+print_set SETA
+uniOn_set SETA, SETB, SETC
+print_set SETC
+union_set , SETA, SETB, SETC
+print_set SETC
+union_set SETA SETB, SETC
+print_set SETC
+union_set SETA, , SETB, SETC
+print_set SETC
+union_set SETA, SETB
+print_set SETC
+union_set SETA, SETB, SETc
+print_set SETC
+union_set SETA, SETB, SETC, SETD
+print_set SETC
+union_set SETA, 1, 4, -1
+print_set SETC

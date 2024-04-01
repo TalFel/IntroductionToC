@@ -1,0 +1,26 @@
+The set is empty
+The set is empty
+The set is empty
+The set is empty
+The set is empty
+The set is empty
+3, 4, 6, 7, 23, 34, 45, 75
+2, 3, 4, 5, 43, 45, 78
+100, 101, 103, 104, 105
+0, 3, 126, 127
+The set is empty
+The set is empty
+110, 111, 112
+2, 3, 4, 5, 6, 7, 23, 34, 43, 45, 75, 78
+3, 4, 45
+6, 7, 23, 34, 75
+2, 5, 6, 7, 23, 34, 43, 75, 78
+The set is empty
+Invalid command name.
+2, 3, 4, 5, 43, 45, 78
+3, 4, 45
+3, 4, 6, 7, 23, 34, 45, 75, 110, 111, 112
+110, 111, 112
+The set is empty
+2, 5, 6, 7, 23, 34, 43, 75, 78
+Program stopped.

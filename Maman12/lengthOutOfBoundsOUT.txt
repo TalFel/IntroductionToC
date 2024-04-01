@@ -1,0 +1,13 @@
+
+please insert the length of bytes to compare(press enter to continue): 
+please insert the first index: 
+please insert the second index: 
+please insert the string: 
+------------------
+the relevant string(to the maximum index we will check): HELLOWORLDHOWAREYOUTODAY
+
+the first index: 5, the second index: 2
+the number of bytes to compare: 180
+------------------
+
+the strings to compare are out of bounds

@@ -1,0 +1,4 @@
+please enter a number and the number of shifts(with a space between): 219124125 24
+base 2-00001101000011111001000110011101, base 8- 1503710635, base 10- 219124125, base 16- d0f919d 
+
+base 2-00000000111110010001100111011101, base 8- 76214735, base 10- 16325085, base 16- f919dd 

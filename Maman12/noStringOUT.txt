@@ -1,0 +1,12 @@
+
+please insert the length of bytes to compare(press enter to continue): 
+please insert the first index: 
+please insert the second index: 
+please insert the string: 
+------------------
+the relevant string(to the maximum index we will check): 
+the first index: 0, the second index: 0
+the number of bytes to compare: 1
+------------------
+
+illigal string, length must be at least 1 character long

@@ -1,0 +1,4 @@
+
+please insert the length of bytes to compare(press enter to continue): 
+please insert the first index: 
+illegal first index, must be positive intege

@@ -1,0 +1,19 @@
+mov r1  , r2
+sub LENGTH  ,  r4
+mov r1  , r2
+sub LENGTH  ,  r4
+mov r1  , r2
+sub LENGTH  ,  r4
+mov r1  , r2
+sub LENGTH  ,  r4
+mov r1  , r2
+sub LENGTH  ,  r4
+LENGTH: add #-1, r3
+mov r1  , r2
+sub LENGTH  ,  r4
+jmp LENGTH(#5,r1)
+jmp LENGTH(#5,r1)
+sub #11 , r3
+jmp LENGTH(#5,r1)
+jmp LENGTH(#5,r1)
+
